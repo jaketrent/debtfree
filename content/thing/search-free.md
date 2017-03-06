@@ -9,8 +9,9 @@ tags:
 - ""
 title: "In Search of Free"
 width: 1
+description: "We didn't budget any spending money."
 ---
 
-We really enjoyed very little extra spending money.  So we were really suckers for anyone that offered us a deal.  If a salesman came to our door and said, "Hey, listen to our 2 hour monologue on why you should buy a water softener.", we\'d do it for the $25 Texas Roadhouse gift certificate payoff.  It was worth it.  We had earned it.
+So we were really suckers for anyone that offered us a deal.  If a salesman came to our door and said, "Hey, listen to our 2 hour monologue on why you should buy a water softener.", we'd do it for the $25 Texas Roadhouse gift certificate payoff.  It was worth it.  We had earned it.
 
 <!--more-->

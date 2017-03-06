@@ -1,11 +1,17 @@
+@font-face {
+  font-family: 'RustSans';
+  src: url('/type/rustsans-blackshadow.woff') format('woff');
+}
 body {
   background: green;
   color: white;
   font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.35em;
 }
 a {
   color: white;
-  text-decoration-color: yellow;
+  text-decoration: none;
 }
 
 .header,
@@ -14,13 +20,12 @@ a {
 }
 
 .header {
-  margin
+  margin-bottom: 50px;
 }
 .title {
   
 }
 .title-link {
-  text-decoration: none;
 }
 .main {
   
@@ -29,16 +34,33 @@ a {
   
 }
 
-.summ {}
-.summ-header {}
-.summ-title {}
-.summ-title-link {
+.summ {
+  margin: 0 0 40px 0;
+}
+.summ-content {
+  font-size: 28px;
+  line-height: 36px;
+}
+.summ-content-link {
   text-decoration: none;
 }
-.summ-content {}
-.summ-image {}
 .summ-image {}
 
+.detail {}
+.detail-content {}
+.detail-desc {
+  font-size: 30px;
+  line-height: 1em;
+}
+.detail-image {}
+.detail-footer {
+
+}
+.detail-tags {
+
+}
+.detail-tags-link {}
+
 .footer {
-  
+  margin-top: 30px;
 }

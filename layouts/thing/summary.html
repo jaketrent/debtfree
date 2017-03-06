@@ -1,9 +1,4 @@
 <article class="summ">
-  <header class="summ-header">
-    <h2 class="summ-title">
-      <a class="summ-title-link" href="{{ .URL }}">{{ .Title }}</a>
-    </h2>
-  </header>
   <div class="summ-content">
     {{ if .Params.image }}
       <a class="summ-image-link" href="{{ .URL }}">
@@ -11,7 +6,7 @@
       </a>
     {{ end }}
     <p>
-      {{ .Summary }}
+      <a class="summ-content-link" href="{{ .URL }}">{{ .Description }}</a>
     </p>
   </div>
 </article>
