@@ -11,15 +11,19 @@
       <div class="detail-desc">
         {{ .Description }}
       </div>
-      {{ .Content }}
+      <div class="detail-body">
+        {{ .Content }}
+      </div>
     </div>
     <footer class="detail-footer">
+      {{ if .Params.tags | len | gt 0 }}
       <div class="detail-tags">
         {{ $baseUrl := .Site.BaseURL }}
         {{ range .Params.tags }}
           <a class="detail-tags-link" href="{{ $baseUrl }}/tags/{{ . | urlize }}">#{{ . }}</a>
         {{ end }}
       </div>
+      {{ end }}
     </footer>
   </article>
 </main>

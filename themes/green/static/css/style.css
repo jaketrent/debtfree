@@ -1,13 +1,20 @@
 @font-face {
-  font-family: 'RustSans';
-  src: url('/type/rustsans-blackshadow.woff') format('woff');
+  font-family: 'Moriston';
+  src: url('/type/MoristonPersonal-Light.woff') format('woff');
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'Moriston';
+  src: url('/type/MoristonPersonal-Semibold.woff') format('woff');
+  font-weight: 600;
 }
 body {
-  background: green;
+  background: #00b500;
   color: white;
-  font-family: sans-serif;
+  font-family: 'Moriston', sans-serif;
   font-size: 16px;
   line-height: 1.35em;
+  font-weight: 200;
 }
 a {
   color: white;
@@ -23,9 +30,25 @@ a {
   margin-bottom: 50px;
 }
 .title {
-  
+  display: flex;
+  align-items: center;
+  height: 50px;
 }
 .title-link {
+  display: flex;
+  align-items: center;
+}
+.title-link-suffix {
+  display: none;
+}
+.title-link:hover .title-link-suffix,
+.title-link:active .title-link-suffix {
+  display: inline;
+}
+.arrow {
+  height: 40px;
+  width: 40px;
+  fill: white;
 }
 .main {
   
@@ -44,13 +67,24 @@ a {
 .summ-content-link {
   text-decoration: none;
 }
+.summ-content-link:hover {
+  color: yellow;
+}
+.summ-content-link:active {
+  color: orange;
+}
 .summ-image {}
 
 .detail {}
 .detail-content {}
 .detail-desc {
   font-size: 30px;
-  line-height: 1em;
+  font-weight: 600;
+  line-height: 1.2em;
+}
+.detail-body {
+  font-size: 20px;
+  line-height: 1.3em;
 }
 .detail-image {}
 .detail-footer {
@@ -63,4 +97,25 @@ a {
 
 .footer {
   margin-top: 30px;
+}
+
+
+/* size: large */
+
+@media screen and (min-width: 900px) {
+  .header,
+  .main,
+  .footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+  }
+
+  .list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .summ {
+    width: 300px;
+  }
 }
