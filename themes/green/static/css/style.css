@@ -1,0 +1,44 @@
+body {
+  background: green;
+  color: white;
+  font-family: sans-serif;
+}
+a {
+  color: white;
+  text-decoration-color: yellow;
+}
+
+.header,
+.main {
+  
+}
+
+.header {
+  margin
+}
+.title {
+  
+}
+.title-link {
+  text-decoration: none;
+}
+.main {
+  
+}
+.list {
+  
+}
+
+.summ {}
+.summ-header {}
+.summ-title {}
+.summ-title-link {
+  text-decoration: none;
+}
+.summ-content {}
+.summ-image {}
+.summ-image {}
+
+.footer {
+  
+}

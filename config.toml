@@ -1,3 +1,6 @@
-baseurl = "http://example.org/"
+baseurl = "https://debtfree.herokuapp.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "green"
+title = "We're Debt Free"
+
+MetaDataFormat = "yaml"
