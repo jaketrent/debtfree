@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-06T13:11:50-07:00
 description: "My wife did not get new outfits"
 draft: false
-layout: thing
+layout: activity
 tags:
 - "clothes"
 title: "My Wife's New Outfits"

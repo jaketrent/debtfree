@@ -4,7 +4,7 @@ categories:
 comments: true
 date: 2017-03-05T17:21:51-07:00
 draft: false
-layout: thing
+layout: activity
 tags:
 - ""
 title: "The Public Media Center"

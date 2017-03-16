@@ -1,5 +1,5 @@
 ---
-layout: thing
+layout: activity
 comments: true
 categories:
 - "Debtfree"

@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-08T08:37:54-07:00
 description: "We didn't buy chocolate chips."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "food"
 - "cooking"

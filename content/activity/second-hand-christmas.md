@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-07T13:11:50-07:00
 description: "Most of our Christmas and birthday presents to kids consisted of hand-me down toys from our neighbors."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "toys"
 - "christmas"

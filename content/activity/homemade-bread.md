@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-08T08:20:04-07:00
 description: "We made our won bread."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "food"
 - "cooking"

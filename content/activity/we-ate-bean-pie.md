@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-08T08:16:15-07:00
 description: "We ate bean pie."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "food"
 title: "We Ate Bean Pie"

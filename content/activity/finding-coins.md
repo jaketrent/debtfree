@@ -4,7 +4,7 @@ categories:
 comments: true
 date: 2017-03-05T17:22:20-07:00
 draft: false
-layout: thing
+layout: activity
 tags:
 - ""
 title: "Finding Coins"

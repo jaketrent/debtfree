@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-06T13:11:50-07:00
 description: "I wore many worn-out polos to work."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "clothes"
 title: "Worn-out Polo"

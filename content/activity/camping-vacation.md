@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-08T08:40:43-07:00
 description: "To get away, we went camping."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "vacation"
 - "entertainment"

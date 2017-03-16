@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-08T08:41:58-07:00
 description: "We missed several family trips."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "vacations"
 - "family"

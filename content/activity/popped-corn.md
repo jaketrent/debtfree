@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-08T08:38:57-07:00
 description: "We popped our own corn."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "food"
 - "cooking"

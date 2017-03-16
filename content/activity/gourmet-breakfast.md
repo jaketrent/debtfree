@@ -5,7 +5,7 @@ comments: true
 date: 2017-03-08T08:34:10-07:00
 description: "We at a gourmet breakfast every day."
 draft: false
-layout: thing
+layout: activity
 tags:
 - "food"
 - "cooking"

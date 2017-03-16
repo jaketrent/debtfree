@@ -4,7 +4,7 @@ categories:
 comments: true
 date: 2017-03-05T17:20:50-07:00
 draft: false
-layout: thing
+layout: activity
 tags:
 - ""
 title: "Cheese Gifts"
